@@ -2,7 +2,7 @@
 
 Git是一个分布式版本控制软件
 
-[GitHub](https://github.com/)是通过Git进行版本控制的软件源代码托管服务，是全球最大的[同性交友](https://pic1.zhimg.com/v2-74facc6f2b05f844c4f377b6bed57f28_r.jpg)平台。
+[GitHub](https://github.com/)是通过Git进行版本控制的软件源代码托管服务，是全球最大的[同性交友](https://github.com/)平台。
 
 # 目的
 ### 为什么要学习Git和GitHub呢？
@@ -329,5 +329,5 @@ $ git stash apply stash@{0}
 ```
 
 # Git终极大福利
-![Git常见命令行](http://i4.bvimg.com/656323/446c69080e761877.png)
+![Git常见命令行](http://pd4brty72.bkt.clouddn.com/git_total.png)
 
