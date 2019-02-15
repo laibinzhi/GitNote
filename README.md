@@ -329,5 +329,5 @@ $ git stash apply stash@{0}
 ```
 
 # Git终极大福利
-![Git常见命令行](http://pd4brty72.bkt.clouddn.com/git_total.png)
+![Git常见命令行](http://lbz-blog.test.upcdn.net/post/git_total.png)
 
